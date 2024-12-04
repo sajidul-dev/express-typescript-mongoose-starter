@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,ts)]()
 
-A robust boilerplate for building scalable backend applications using **Node.js**, **Express**, **Mongoose**, and **TypeScript** with built-in tools for better code quality and development workflow.
+A boilerplate for building scalable backend applications using **Node.js**, **Express**, **Mongoose**, and **TypeScript** with built-in tools for better code quality and development workflow.
 
 ## Features
 
